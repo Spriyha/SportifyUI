@@ -94,6 +94,10 @@ Add additional features by extending LibraryData or creating new View components
 This project was created as a SwiftUI demonstration inspired by Spotify's design and functionality.
 ### License
 This project is open source.
+### Requirements
+* Xcode 14+
+* Swift 5+
+* iOS 15+
 ### Acknowledgements
 We would like to thank the Apple community for their excellent framework and documentation,which greatly facilitated the development of this project.
 ### ScreenShots
