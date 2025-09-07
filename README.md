@@ -75,7 +75,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 This project is built entirely with SwiftUI and does not rely on any external dependencies. All UI components and animations are implemented using SwiftUI packages and dependencies.
 ### Getting Started
 * Clone the Repository:
-git clone (https://github.com/spriyha-maurya-iphtech/SpotifyUI.git)
+git clone (https://github.com/Spriyha/SportifyUI.git)
 * Open in Xcode:
 Open the SpotifyUI.xcodeproj file in Xcode.
 * Run the App:
